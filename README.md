@@ -5,3 +5,5 @@ Blood Central Database is a fully developed system which allows a central databa
 It uses a web service to communicate with the systems of various blood banks. It allows heterogeneous systems, be it a desktop, a handheld device or a server, to collaborate to maintain a central database so that information of blood and donors are available on the go.
 
 Clients can be made on any platform supporting basic network calls and json/xml parsing. A client made in C# .NET is available as an example.
+
+This system was made in the duration of 36 hours in HackAzoi - A hackathon organized and conducted by Azoi Inc. (https://azoi.com/)
